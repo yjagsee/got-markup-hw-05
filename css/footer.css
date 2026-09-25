@@ -96,7 +96,7 @@
     width: 165px;
     height: 40px;
     max-width: 165px;
-    transition: background-color 300ms ease-in-out;
+    transition: background-color 250ms ease-in-out;
 }
 
 .footer .button:hover {
@@ -123,7 +123,7 @@
     width: 264px;
     height: 40px;
     background-color: transparent;
-    transition: border 300ms ease-in-out;
+    transition: border-color 250ms ease-in-out;
     color: #ffffff;
 }
 
